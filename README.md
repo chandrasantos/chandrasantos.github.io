@@ -5,7 +5,9 @@
 💡🚀Profissional com 13 anos de carreira em comunicação e marketing digital - com experiência em estratégia, planejamento e gerência de projetos. Atualmente, em transição de carreira e apta para prestação de serviços de:
 
 📈📊 Análise de dados nos negócios
+
 📈📊 Relatórios de dados: Google Data Studio e Power BI
+
 📈📊 Desenvolvimento web: SQL, Python, HTML e PHP
 
 🧮 Quero unir a Ciência de Dados a minha experiência de mercado e aos conhecimentos obtidos na especialização - em marketing digital, arquitetura da informação e UX UI. Dessa forma eu posso proporcionar uma visão 360º de negócios e permitir a tomada de decisões assertivas com base em dados. 🎯♟️
