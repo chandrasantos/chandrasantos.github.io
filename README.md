@@ -1,8 +1,16 @@
 # Hello World! 🗺 #
 
-👩‍💻​ Sou Chandra Santos e estou em transição de carreira 🛫
+👩‍💻​ Sou Chandra Santos e ajudo empresas a tomarem decisões estratégicas com base em dados.
 
-<div><img src="https://scontent.fgig4-1.fna.fbcdn.net/v/t39.30808-6/296182027_103456119130033_6939432242912066948_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEjqolTlsPRhRHErCPqZcRAgri7sC5Ig1CCuLuwLkiDUNAW6DPiUIkSJYFaomxDqH71SYQqHGY5PdL3-x8E2rcc&_nc_ohc=DkPSPw-8BoMAX81wNl1&_nc_ht=scontent.fgig4-1.fna&oh=00_AT_VywxgmmT8Dbypv5XFK4HclhmEATs2up3nz-Y5fVXctw&oe=62E66CAD" width="400" height="200"> </div>
+Profissional com 13 anos de carreira em comunicação e marketing digital - com experiência em estratégia, planejamento e gerência de projetos. Atualmente, em transição de carreira e apta para prestação de serviços de:
+
+Análise de dados nos negócios
+Relatórios de dados
+Desenvolvimento web
+
+Quero unir a Ciência de Dados a minha experiência de mercado e aos conhecimentos obtidos na especialização - em marketing digital, arquitetura da informação e UX UI. Dessa forma eu posso proporcionar uma visão 360º de negócios e permitir a tomada de decisões assertivas com base em dados.
+
+<div><img src="https://scontent.fgig4-1.fna.fbcdn.net/v/t39.30808-6/296182027_103456119130033_6939432242912066948_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEjqolTlsPRhRHErCPqZcRAgri7sC5Ig1CCuLuwLkiDUNAW6DPiUIkSJYFaomxDqH71SYQqHGY5PdL3-x8E2rcc&_nc_ohc=DkPSPw-8BoMAX81wNl1&_nc_ht=scontent.fgig4-1.fna&oh=00_AT_VywxgmmT8Dbypv5XFK4HclhmEATs2up3nz-Y5fVXctw&oe=62E66CAD" left width="400" height="400"> </div>
 
 # Formação:
 
