@@ -56,16 +56,14 @@ E várias outras certificações que estão no meu Linkedin:
 ✅    | ✅  
 --------- | ------
 Google Data Studio, Power BI | Google Sheets e Excel. 
-Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100">  | SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100">
-MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="100" height="100">| Pandas  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="100">
-Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"> | Selenium <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="100" height="100">
-Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"> | Azure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/>
-HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"> | PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100">  
+Linux  | Docker
+Azure | MongoDB
+Python | SQL
+Pandas | Selenium  
+HTML | PHP 
      
 
 # Entre em contato:
-<div><img src="https://media1.giphy.com/media/pO3cIQ9xd3tk6IImzl/giphy.gif?cid=790b7611e8de9754ae9682baef79e6fd2f591ae141469b39&rid=giphy.gif&ct=g"></div>
-<div>
 <a href="https://www.youtube.com/ChandraSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
