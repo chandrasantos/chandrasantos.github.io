@@ -57,10 +57,10 @@ E várias outras certificações que estão no meu Linkedin:
 --------- | ------
 Google Data Studio, Power BI | Google Sheets e Excel. 
 Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100">  | SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100">
-MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="100" height="100">| Pandas  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="100"></div>
-Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"> | Selenium <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="100" height="100"></div>
-Docker <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"></div> | Azure <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/></div>
-HTML <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"></div> | PHP <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"></div>  
+MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="100" height="100">| Pandas  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="100">
+Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"> | Selenium <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="100" height="100">
+Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"> | Azure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/>
+HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"> | PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100">  
      
 
 # Entre em contato:
