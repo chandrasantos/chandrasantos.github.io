@@ -1,10 +1,36 @@
 # Hello World! 🗺 #
 
-<div><img src="https://scontent.fgig4-1.fna.fbcdn.net/v/t39.30808-6/296182027_103456119130033_6939432242912066948_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEjqolTlsPRhRHErCPqZcRAgri7sC5Ig1CCuLuwLkiDUNAW6DPiUIkSJYFaomxDqH71SYQqHGY5PdL3-x8E2rcc&_nc_ohc=DkPSPw-8BoMAX81wNl1&_nc_ht=scontent.fgig4-1.fna&oh=00_AT_VywxgmmT8Dbypv5XFK4HclhmEATs2up3nz-Y5fVXctw&oe=62E66CAD" width="400" height="400"> </div> 
+## Sua empresa precisa de ajuda para implementar uma cultura data-driven?
+
+
+## Você já tem uma base com cadastros, mas, não sabe o que fazer com ela?
+
 
 
 👩‍💻​ Sou **Chandra Santos** e ajudo empresas a tomarem **decisões estratégicas** com base em **dados**. 🎲🎲🎲
 
+
+## Quais as vantagens a cultura Data Driven oferecem para a empresa?
+
+• Previsões mais assertivas
+
+• Adaptabilidade no mercado
+•Identificação de oportunidades, tendências e ameaças ao negócio
+• Inovação 
+• Facilita a tomada de decisões mais confiáveis
+• Agilidade
+• Buscar o público-alvo certo
+•Criar conteúdo relevante
+
+
+
+Implementar uma cultura organizacional orientada por dados é a base das empresas do futuro. 
+
+### Chega de tomar decisões como base em "eu acho", "eu sinto", "eu perguntei ao cliente".
+
+Um profissional capacitado consegue combinar métodos científicos, estatísticos e análise por algoritmos e transformar uma imensa massa de dados desorganizados em inteligência para o negócio.
+
+# Quem sou eu?
 
 💡🚀Profissional com 13 anos de carreira em **comunicação e marketing digital** - com experiência em estratégia, planejamento e gerência de projetos. Apta para prestação de serviços de:
 
@@ -68,3 +94,4 @@ HTML | PHP
 <a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<div><img src="https://scontent.fgig4-1.fna.fbcdn.net/v/t39.30808-6/296182027_103456119130033_6939432242912066948_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEjqolTlsPRhRHErCPqZcRAgri7sC5Ig1CCuLuwLkiDUNAW6DPiUIkSJYFaomxDqH71SYQqHGY5PdL3-x8E2rcc&_nc_ohc=DkPSPw-8BoMAX81wNl1&_nc_ht=scontent.fgig4-1.fna&oh=00_AT_VywxgmmT8Dbypv5XFK4HclhmEATs2up3nz-Y5fVXctw&oe=62E66CAD" width="400" height="400"> </div>
