@@ -1,6 +1,6 @@
 # Hello World! 🗺 #
 
-## Sobre mim
+## Quem sou eu?
 
 👩‍💻​ Sou **Chandra Santos** e ajudo empresas a tomarem **decisões estratégicas** com base em **dados**. 🎲🎲🎲
 
