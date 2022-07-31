@@ -60,5 +60,3 @@ HTML | PHP
 ## Atualmente estou em busca de oportunidades na área. Entre em contato:
 <a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-
-<div><img src="https://scontent.fgig4-1.fna.fbcdn.net/v/t39.30808-6/296182027_103456119130033_6939432242912066948_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEjqolTlsPRhRHErCPqZcRAgri7sC5Ig1CCuLuwLkiDUNAW6DPiUIkSJYFaomxDqH71SYQqHGY5PdL3-x8E2rcc&_nc_ohc=DkPSPw-8BoMAX81wNl1&_nc_ht=scontent.fgig4-1.fna&oh=00_AT_VywxgmmT8Dbypv5XFK4HclhmEATs2up3nz-Y5fVXctw&oe=62E66CAD" width="400" height="400"> 
