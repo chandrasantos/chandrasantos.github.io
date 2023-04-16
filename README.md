@@ -6,3 +6,4 @@ Entre em contato:
 
 Esse site está sendo construído como projeto no bootcamp Desenvolvimento Web para Iniciantes da Womakerscode e Ifood. 
 
+Acesse o Kanban para acompanhar as etapas https://github.com/users/chandrasantos/projects/2/views/2 
