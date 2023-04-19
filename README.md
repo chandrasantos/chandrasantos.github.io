@@ -14,7 +14,6 @@ Para não deixar nenhum detalhe passar, contei com a ajuda do ChatGPT para lista
 <div> <img src="https://img3.stockfresh.com/files/r/rafalstachura/m/43/1943980_stock-photo-website-planning.jpg"></div>
 
 ## 1 Etapa Planejamento
-
 Aqui defini o objetivo do site e o público-alvo. Meu site vai oferecer serviços freelancer de construção de landing pages para estratégias de marketing nas redes sociais para MEI e pequenas empresas.
 
 https://github.com/chandrasantos/chandrasantos.github.io/issues/1 
@@ -23,5 +22,23 @@ https://github.com/chandrasantos/chandrasantos.github.io/issues/1
 Aqui listei as funcionalidades e o conteúdo do site e esbocei o wireframe do design. 
 
 https://github.com/chandrasantos/chandrasantos.github.io/issues/4
+
+## 3 Desenvolvimento HTML
+Tendo em mãos o wireframe comecei a escrever o código HTML no <b> VSCode </b> para criar a estrutura do site (cabeçalhos, rodapés, hiperlinks etc.). Contei com ajuda do módulo <b> HTML </b> e <b> CSS </b> do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
+
+https://github.com/chandrasantos/chandrasantos.github.io/issues/3
+
+## 4 Estilização CSS
+Escrevi o código CSS no <b> VS Code </b> para adicionar as cores, fontes, estilos de texto e outros elementos visuais da marca e deixando o site fácil de navegar.
+
+https://github.com/chandrasantos/chandrasantos.github.io/issues/2
+
+## 5
+
+## 6
+
+## 7
+
+## 8
 
 
