@@ -4,7 +4,7 @@
 Contato:
 <a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-Meu site está sendo desenvolvido como projeto no bootcamp Programação Web para Iniciantes da Womakerscode e Ifood. 
+Meu site está sendo desenvolvido como projeto no <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
 
 Acesse o Kanban para acompanhar as etapas https://github.com/users/chandrasantos/projects/2/views/2 
 
