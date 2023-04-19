@@ -26,7 +26,7 @@ Aqui listei as funcionalidades e o conteúdo do site e esbocei o wireframe do de
 https://github.com/chandrasantos/chandrasantos.github.io/issues/4
 
 ## 3 Desenvolvimento HTML
-Tendo em mãos o wireframe escrevi o código <b> HTML </b> no <b> VSCode </b> para criar a estrutura do site (cabeçalhos, rodapés, hiperlinks etc.). Contei com ajuda do módulo <b> HTML </b> e <b> CSS </b> do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
+Tendo em mãos o wireframe escrevi o código <b> HTML </b> no <b> VS Code </b> para criar a estrutura do site (cabeçalhos, rodapés, hiperlinks etc.). Contei com ajuda do módulo <b> HTML </b> e <b> CSS </b> do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
 
 https://github.com/chandrasantos/chandrasantos.github.io/issues/3
 
