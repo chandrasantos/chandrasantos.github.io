@@ -24,21 +24,36 @@ Aqui listei as funcionalidades e o conteúdo do site e esbocei o wireframe do de
 https://github.com/chandrasantos/chandrasantos.github.io/issues/4
 
 ## 3 Desenvolvimento HTML
-Tendo em mãos o wireframe comecei a escrever o código HTML no <b> VSCode </b> para criar a estrutura do site (cabeçalhos, rodapés, hiperlinks etc.). Contei com ajuda do módulo <b> HTML </b> e <b> CSS </b> do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
+Tendo em mãos o wireframe escrevi o código <b> HTML </b> no <b> VSCode </b> para criar a estrutura do site (cabeçalhos, rodapés, hiperlinks etc.). Contei com ajuda do módulo <b> HTML </b> e <b> CSS </b> do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
 
 https://github.com/chandrasantos/chandrasantos.github.io/issues/3
 
 ## 4 Estilização CSS
-Escrevi o código CSS no <b> VS Code </b> para adicionar as cores, fontes, estilos de texto e outros elementos visuais da marca e deixando o site fácil de navegar.
+Escrevi o código <b> CSS </b> no <b> VS Code </b> para adicionar as cores, fontes, estilos de texto e outros elementos visuais da marca deixando o site atrativo e com fácil navegação. Contei com ajuda do módulo <b> HTML </b> e <b> CSS </b> do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
 
 https://github.com/chandrasantos/chandrasantos.github.io/issues/2
 
-## 5
+## 5 Desenvolvimento JavaScript
+Escrevi código <b> .js </b> no <b> VS Code </b> para adicionar [a definir] no site.
+Contei com ajuda do módulo <b> Javascript </b> do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> e <b> Ifood </b>. 
 
-## 6
+https://github.com/chandrasantos/chandrasantos.github.io/issues/5 
 
-## 7
+## 6 Testes
+O objetivo aqui é ver a responsividade em diferentes navegadores e dispositivos.
 
-## 8
+https://github.com/chandrasantos/chandrasantos.github.io/issues/6
+
+## 7 Publicação
+Aqui o objetivo é publicar o site no GitHub pages.
+
+https://github.com/chandrasantos/chandrasantos.github.io/issues/7
+
+## 8 Manutenção
+Essa etapa sempre estará aberta, pois, aqui farei melhorias e atualizações no site.
+
+https://github.com/chandrasantos/chandrasantos.github.io/issues/8 
 
 
+# Visite o site e peça sua página de captura 👩‍💻
+https://chandrasantos.github.io/ 
