@@ -12,6 +12,8 @@ Acesse o Kanban para acompanhar as etapas https://github.com/users/chandrasantos
 
 Para não deixar nenhum detalhe passar, contei com a ajuda do ChatGPT para listar com detalhes as etapas necessárias do desenvolvimento do site.
 
+!(https://img3.stockfresh.com/files/r/rafalstachura/m/43/1943980_stock-photo-website-planning.jpg)
+
 ## 1 Etapa Planejamento
 
 Aqui defini o objetivo do site e o público-alvo. Meu site vai oferecer serviços freelancer de construção de landing pages para estratégias de marketing nas redes sociais para MEI e pequenas empresas.
