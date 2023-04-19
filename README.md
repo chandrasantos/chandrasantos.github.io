@@ -57,5 +57,5 @@ Essa etapa sempre estará aberta, pois, aqui farei melhorias e atualizações no
 https://github.com/chandrasantos/chandrasantos.github.io/issues/8 
 
 
-# Visite o site e conheça meus serviços freelancer em Front-End👩‍💻
+# Visite o site e conheça meus serviços freelancer em Front-end👩‍💻
 https://chandrasantos.github.io/ 
