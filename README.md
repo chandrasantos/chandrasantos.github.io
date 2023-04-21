@@ -10,9 +10,8 @@ Inspirada nas atividades propostas no final de cada módulo, resolvi fazer algo 
 
 Acesse o Kanban para acompanhar as etapas desse desenvolvimento: https://github.com/users/chandrasantos/projects/2/views/2 
 
-# Documentação
+# Documentação da evolução do projeto
 
-Acompanhe as etapas do desenvolvimento do site.
 <div> <img src="https://img3.stockfresh.com/files/r/rafalstachura/m/43/1943980_stock-photo-website-planning.jpg"></div>
 
 ## 1 Etapa Planejamento
