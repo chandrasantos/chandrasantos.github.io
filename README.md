@@ -16,7 +16,7 @@ Para não deixar nenhum detalhe passar, contei com a ajuda do ChatGPT para lista
 <div> <img src="https://img3.stockfresh.com/files/r/rafalstachura/m/43/1943980_stock-photo-website-planning.jpg"></div>
 
 ## 1 Etapa Planejamento
-Aqui defini o objetivo do site e o público-alvo. O objetivo do meu site é apresentar meu portfólio e ser uma fonte para possíveis trabalhos como freelancer em Front-end, principalmente, para MEI e pequenas empresas que precisam de um site.
+Aqui defini o objetivo do site e o público-alvo. O objetivo do meu site é apresentar meu portfólio e ser uma fonte para possíveis trabalhos como freelancer em Front-end, principalmente, para MEI e pequenas empresas que precisam de um site e social media freelancers que precisam terceirizar esse serviço para seus clientes.
 
 https://github.com/chandrasantos/chandrasantos.github.io/issues/1 
 
