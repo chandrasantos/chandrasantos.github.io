@@ -12,7 +12,7 @@ Acesse o Kanban para acompanhar as etapas desse desenvolvimento: https://github.
 
 # Documentação
 
-Para não deixar nenhum detalhe passar, contei com a ajuda do ChatGPT para listar com detalhes as etapas necessárias do desenvolvimento do site.
+Acompanhe as etapas do desenvolvimento do site.
 <div> <img src="https://img3.stockfresh.com/files/r/rafalstachura/m/43/1943980_stock-photo-website-planning.jpg"></div>
 
 ## 1 Etapa Planejamento
