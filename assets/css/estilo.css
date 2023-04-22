@@ -1,0 +1,181 @@
+body {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    font-family: 'Anonymous Pro', monospace;
+    color: white;
+    --cor-destaque: #7ff000;
+}
+
+.header {
+    border: 1px solid yellow;
+    width: 100%;
+    max-width: 700px;
+    padding: auto;
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: flex;
+    justify-content:flex-end
+}
+
+.header__link {
+    text-decoration: none;
+    box-sizing: border-box;
+    padding: 12px;
+    }
+
+.header__link:hover {
+    opacity: .6;
+}
+
+.header__link:focus {
+    outline: none;
+    background-color: white;
+    border-radius: 5px;
+}
+
+main{
+    border: 1px solid red;
+    width: 100%;
+    max-width: 700px;
+    padding: auto;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.perfil {
+    border: 1px solid pink;
+    width: 700px;
+    display: flex;
+    justify-content:center;
+    margin-top: auto;
+   
+}
+
+.perfil__foto {
+    width: 50%;
+    height: 100%;
+    max-height: 100%;
+    border-radius: 20%;
+    border: 6px solid var(--cor-destaque);
+}
+
+.perfil__nome {
+    font-family:'Share Tech', sans-serif;
+    font-size: 70px;
+    font-weight: 40px;
+    color: var(--cor-destaque);
+    margin: 16px 0; 
+    text-align: center;
+
+}
+
+.perfil__descricao {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 16px 0;
+    width: 100%;
+    max-width: 350px;
+    text-align: justify;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+
+}
+
+.perfil__linguagens {
+    width: 80%;
+    height: 80%;
+    max-height: 150%;
+    border-radius: 50%;
+    border: 6px solid var(--cor-destaque); 
+}
+
+.servico {
+    padding: auto;
+    width: 100%;
+    max-width: 350px;
+    margin: 24px auto;
+}
+
+.servico__titulo {
+    font-family:'Share Tech', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color:var(--cor-destaque) ;
+    margin:16px 0;
+    box-sizing: border-box;
+}
+
+.servico_descricao {
+    font-size: 20px;
+    font-weight: 400;
+    margin:16px 0;
+    box-sizing: border-box;
+    text-align: justify;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+.portfolio {
+    padding: auto;
+    width: 100%;
+    max-width: 350px;
+    margin: 24px auto;
+}
+
+.portfolio__titulo {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: var(--cor-destaque);
+    margin: 4px 0;
+}
+
+/* background-color: #0277b5; colocar o fundo do carrossel dessa cor*/
+
+.contato {
+    padding: auto;
+    width: 100%;
+    max-width: 350px;
+    margin: 24px auto; 
+}
+
+.contato__titulo {
+    font-family:'Share Tech', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color:var(--cor-destaque) ;
+    margin:16px 0;
+    box-sizing: border-box;
+}
+
+.contato_descricao {
+    font-size: 20px;
+    font-weight: 400;
+    margin:16px 0;
+    box-sizing: border-box;
+    text-align: justify;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+.footer {
+    border: 1px solid blueviolet;
+    width: 100%;
+    height: 42px;
+    background-color: var(--cor-destaque);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+.footer__texto {
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
