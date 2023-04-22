@@ -8,11 +8,15 @@ Ter um site no GitHub era um projeto antigo que nunca conseguia tempo para fazer
 
 Inspirada nas atividades propostas no final de cada módulo, resolvi fazer algo diferente. Em vez de publicar aqui no GitHub as lista de exercícios ou os projetos finais dos módulos, decidi aproveitar o que aprendi e finalmente fazer o meu site. 
 
-Acesse o Kanban para acompanhar as etapas desse desenvolvimento: https://github.com/users/chandrasantos/projects/2/views/2 
+# Visite o site 👩‍💻
+https://chandrasantos.github.io/ 
+
 
 # Documentação da evolução do projeto
 
 <div> <img src="https://img3.stockfresh.com/files/r/rafalstachura/m/43/1943980_stock-photo-website-planning.jpg"></div>
+
+Acesse o Kanban para acompanhar as etapas desse desenvolvimento: https://github.com/users/chandrasantos/projects/2/views/2 
 
 ## 1 Etapa Planejamento
 Aqui defini o objetivo do site e o público-alvo. O objetivo do meu site é apresentar meu portfólio e ser uma fonte para possíveis trabalhos como freelancer em Front-end, principalmente, para MEI e pequenas empresas que precisam de um site e social media freelancers que precisam terceirizar esse serviço para seus clientes.
@@ -56,5 +60,4 @@ Essa etapa sempre estará aberta, pois, aqui farei melhorias e atualizações no
 https://github.com/chandrasantos/chandrasantos.github.io/issues/8 
 
 
-# Visite o site 👩‍💻
-https://chandrasantos.github.io/ 
+
