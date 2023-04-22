@@ -122,6 +122,7 @@ main{
     width: 100%;
     max-width: 350px;
     margin: 24px auto;
+    justify-content: center;
 }
 
 .portfolio__titulo {
@@ -130,15 +131,21 @@ main{
     font-weight: 40px;
     color: var(--cor-destaque);
     margin: 16px 0; 
-    text-align: center;
+    text-align: center;    
 }
 
 /* background-color: #0277b5; colocar o fundo do carrossel dessa cor*/
 
 .carrossel {
-    width: 540px;
-    height: 960px;
+    width: 270px;
+    height: 480px;
     overflow: hidden;
+    width: 70%;
+    height: 70%;
+    max-height: 140%;
+    border-radius: 12%;
+    border: 6px solid var(--cor-destaque);
+    justify-content: center;
 }
 
 .contato {
