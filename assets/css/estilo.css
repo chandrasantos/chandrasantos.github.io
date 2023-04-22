@@ -100,17 +100,18 @@ main{
 .servico__titulo {
     font-family:'Share Tech', sans-serif;
     font-size: 50px;
-    font-weight: 400;
-    color:var(--cor-destaque) ;
-    margin:16px 0;
-    box-sizing: border-box;
+    font-weight: 40px;
+    color: var(--cor-destaque);
+    margin: 16px 0; 
+    text-align: center;
 }
 
-.servico_descricao {
-    font-size: 20px;
+.servico__descricao {
+    font-size: 18px;
     font-weight: 400;
-    margin:16px 0;
-    box-sizing: border-box;
+    margin: 16px 0;
+    width: 100%;
+    max-width: 350px;
     text-align: justify;
     line-height: 1.5em;
     margin-bottom: 1em;
@@ -124,11 +125,12 @@ main{
 }
 
 .portfolio__titulo {
-    font-family: 'Share Tech', sans-serif;
+    font-family:'Share Tech', sans-serif;
     font-size: 50px;
-    font-weight: 400;
+    font-weight: 40px;
     color: var(--cor-destaque);
-    margin: 4px 0;
+    margin: 16px 0; 
+    text-align: center;
 }
 
 /* background-color: #0277b5; colocar o fundo do carrossel dessa cor*/
@@ -143,17 +145,18 @@ main{
 .contato__titulo {
     font-family:'Share Tech', sans-serif;
     font-size: 50px;
-    font-weight: 400;
-    color:var(--cor-destaque) ;
-    margin:16px 0;
-    box-sizing: border-box;
+    font-weight: 40px;
+    color: var(--cor-destaque);
+    margin: 16px 0; 
+    text-align: center;
 }
 
-.contato_descricao {
-    font-size: 20px;
+.contato__descricao {
+    font-size: 18px;
     font-weight: 400;
-    margin:16px 0;
-    box-sizing: border-box;
+    margin: 16px 0;
+    width: 100%;
+    max-width: 350px;
     text-align: justify;
     line-height: 1.5em;
     margin-bottom: 1em;
