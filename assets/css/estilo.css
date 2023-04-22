@@ -135,6 +135,12 @@ main{
 
 /* background-color: #0277b5; colocar o fundo do carrossel dessa cor*/
 
+.carrossel {
+    width: 540px;
+    height: 960px;
+    overflow: hidden;
+}
+
 .contato {
     padding: auto;
     width: 100%;
