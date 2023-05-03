@@ -6,7 +6,7 @@ Contato:
 
 Ter um site no GitHub era um projeto antigo que nunca conseguia tempo para fazer. Em março de 2023 fui aprovada para turma do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> em parceria com o <b> Ifood </b>. 
 
-Inspirada nas atividades propostas no final de cada módulo, resolvi fazer algo diferente. Em vez de publicar aqui no GitHub as lista de exercícios ou os projetos finais dos módulos, decidi aproveitar o que aprendi e finalmente fazer o meu site. 
+Inspirada nas atividades propostas no final de cada módulo, resolvi fazer algo diferente. Em vez de publicar aqui no GitHub as lista de exercícios ou os projetos sugeridos aos finais dos módulos, decidi aproveitar o que aprendi e finalmente fazer o meu site. 
 
 # Visite o site 👩‍💻
 https://chandrasantos.github.io/ 
