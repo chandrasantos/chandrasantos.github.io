@@ -60,7 +60,7 @@ main {
 }
 
 .perfil__nome {
-    font-family:'Share Tech', sans-serif;
+    font-family:'Bebas Neue', cursive;
     font-size: 70px;
     font-weight: 40px;
     color: var(--cor-destaque);
@@ -100,7 +100,7 @@ main {
 }
 
 .servico__titulo {
-    font-family:'Share Tech', sans-serif;
+    font-family:'Bebas Neue', cursive;
     font-size: 50px;
     font-weight: 40px;
     color: var(--cor-destaque);
@@ -130,7 +130,7 @@ main {
 }
 
 .portfolio__titulo {
-    font-family:'Share Tech', sans-serif;
+    font-family:'Bebas Neue', cursive;
     font-size: 50px;
     font-weight: 40px;
     color: var(--cor-destaque);
@@ -159,7 +159,7 @@ main {
 }
 
 .contato__titulo {
-    font-family:'Share Tech', sans-serif;
+    font-family:'Bebas Neue', cursive;
     font-size: 50px;
     font-weight: 40px;
     color: var(--cor-destaque);
