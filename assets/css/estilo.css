@@ -91,13 +91,14 @@ main {
 }
 
 .servico {
+    width: 700px;
     padding: auto;
-    width: 100%;
     max-width: 350px;
     margin: 24px auto;
     display: flex;
     justify-content:center;
     margin-top: auto;
+    
 }
 
 .servico__titulo {
@@ -107,6 +108,7 @@ main {
     color: var(--cor-destaque);
     margin: 16px 0; 
     text-align: center;
+
 }
 
 .servico__descricao {
@@ -118,11 +120,12 @@ main {
     text-align: justify;
     line-height: 1.5em;
     margin-bottom: 1em;
+
 }
 
 .portfolio {
     padding: auto;
-    width: 100%;
+    width: 700px;
     max-width: 350px;
     margin: 16px auto;
     display: flex;
@@ -170,7 +173,8 @@ main {
     padding: auto;
     width: 100%;
     max-width: 350px;
-    margin: 24px auto; 
+    margin: 24px auto;
+    margin-top: auto; 
 }
 
 .contato__titulo {
@@ -195,13 +199,14 @@ main {
 
 .footer {
     width: 100%;
-    height: 42px;
+    height: 100px;
     background-color: var(--cor-destaque);
     display: flex;
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
     flex-shrink: 0;
+    margin-top: auto;
 }
 
 .footer__texto {
