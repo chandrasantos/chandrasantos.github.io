@@ -87,6 +87,7 @@ main {
     max-height: 150%;
     border-radius: 50%;
     border: 6px solid var(--cor-destaque); 
+    margin: 16px 0;
 }
 
 .servico {
@@ -123,7 +124,7 @@ main {
     padding: auto;
     width: 100%;
     max-width: 350px;
-    margin: 24px auto;
+    margin: 16px auto;
     display: flex;
     justify-content:center;
     margin-top: auto;
@@ -138,7 +139,7 @@ main {
     text-align: center;    
 }
 
-.portfolio__descricao{
+.portfolio__descricao {
     font-size: 18px;
     font-weight: 400;
     margin: 16px 0;
@@ -149,19 +150,21 @@ main {
     margin-bottom: 1em;
 }
 
-
 /* background-color: #0277b5; colocar o fundo do carrossel dessa cor*/
 
 .carrossel {
     overflow: hidden;
-    width: 100%;
-    height: 100%;
-    max-height: 100%;
+    width: 40%;
+    height: 40%;
+    max-height: 40%;
     border-radius: 12%;
     border: 6px solid var(--cor-destaque);
     justify-content:center;
+    margin-top: auto;
+    max-width: 350px;
+    margin: 24px auto;
+    display: flex;
 }
-
 
 .contato {
     padding: auto;
