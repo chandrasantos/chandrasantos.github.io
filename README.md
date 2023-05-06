@@ -1,19 +1,14 @@
-# Esse projeto está em construção 🚧
-
-
-Contato:
-<a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+# Visite o site 👩‍💻
+https://chandrasantos.github.io/ 
 
 Ter um site no GitHub era um projeto antigo que nunca conseguia tempo para fazer. Em março de 2023 fui aprovada para turma do <b> bootcamp Programação Web para Iniciantes </b> da <b> Womakerscode 🦋 </b> em parceria com o <b> Ifood </b>. 
 
 Inspirada nas atividades propostas no final de cada módulo, resolvi fazer algo diferente. Em vez de publicar aqui no GitHub as lista de exercícios ou os projetos sugeridos aos finais dos módulos, decidi aproveitar o que aprendi e finalmente fazer o meu site. 
 
-# Visite o site 👩‍💻
-https://chandrasantos.github.io/ 
+# Contato:
+<a href="https://www.linkedin.com/in/chandrasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
-# Documentação da evolução do projeto
-
+# Documentação do projeto:
 <div> <img src="https://img3.stockfresh.com/files/r/rafalstachura/m/43/1943980_stock-photo-website-planning.jpg"></div>
 
 Acesse o Kanban para acompanhar as etapas desse desenvolvimento: https://github.com/users/chandrasantos/projects/2/views/2 
