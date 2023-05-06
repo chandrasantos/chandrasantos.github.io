@@ -138,6 +138,18 @@ main {
     text-align: center;    
 }
 
+.portfolio__descricao{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 16px 0;
+    width: 100%;
+    max-width: 350px;
+    text-align: justify;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+
 /* background-color: #0277b5; colocar o fundo do carrossel dessa cor*/
 
 .carrossel {
